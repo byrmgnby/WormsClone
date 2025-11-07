@@ -24,7 +24,7 @@ Yaptığım testler sonucunda en optimum değerin 16 olduğunu buldum. Oyun alan
 
 ## Oyundaki skorların kombolu skor artışını resimdeki grafiğe göre ayarladım.
 
-Apk : https://github.com/FurkanSertfs/WormsClone/blob/main/Apk/WormsClone.apk 
+Apk : https://github.com/byrmgnby/WormsClone/blob/main/Apk/WormsClone.apk 
 
 
 
